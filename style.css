@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    background: rgb(212, 0, 255);
+}
+#canvas1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
